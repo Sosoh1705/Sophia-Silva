@@ -4,9 +4,11 @@
 
 :root{
 
-    --cor-de-fundo: white;
+    --cor-de-fundo: white; 
+    --fonte-principal: "Poppins";
 }
 body{
    background-color: var(--cor-de-fundo);
+   font-family: var(--fonte-principal);
 }
 
